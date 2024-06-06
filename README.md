@@ -14,7 +14,7 @@ Imagine you are traveling or at a boring place, and you come across a job postin
 
 | Platform | Download Link |
 |----------|---------------|
-| iOS      | [Download from App Store]([https://www.apple.com/ios/app-store/](https://apps.apple.com/in/app/job-queue/id6503421892)) |
+| iOS      | [Download from App Store]([(https://apps.apple.com/in/app/job-queue/id6503421892)]) |
 
 ## Screenshots
 
