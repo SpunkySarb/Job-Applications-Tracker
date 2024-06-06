@@ -17,11 +17,6 @@ JobQueue helps by allowing users to:
 |----------|---------------|
 | iOS      | [Download from App Store](https://apps.apple.com/in/app/job-queue/id6503421892?platform=iphone) |
 
-## Screenshots
-
-| Home Screen | Application List | Application Details |
-|-------------|------------------|---------------------|
-| ![Home Screen](screenshots/home.png) | ![Application List](screenshots/application_list.png) | ![Application Details](screenshots/application_details.png) |
 
 ## Features
 
